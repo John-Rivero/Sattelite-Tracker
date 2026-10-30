@@ -35,6 +35,7 @@ The desktop application integrates three main UI components:
 ![Application Main UI](<images/screenshots/Screenshot 2026-10-30 131802.png>)
 
 ### Live Query & Verified Output Results
+![Query Result1](<images/screenshots/query.png>)
 ![Query Result1](<images/screenshots/database.png>)
 ![Query Result1](<images/screenshots/email.jpg>)
 
